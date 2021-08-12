@@ -1,0 +1,30 @@
+/*
+ * @Author: zhengyu
+ * @Date: 2021-08-12 16:47:51
+ * @LastEditTime: 2021-08-12 17:45:17
+ * @LastEditors: Please set LastEditors
+ * @Description: 参考自 https://www.bilibili.com/video/BV15A411s7cX
+ * @FilePath: \bupt-campus\src\pages\Login\LoginLogo.module.css
+ */
+@font-face {
+  font-family: 'Bebas Neue';
+  src: url('./BebasNeue-Regular.ttf') format('tff');
+  font-style: normal;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #F8F005;
+}
+
+.title{
+  width: 380px;
+  height: 86px;
+  font-size: 36px;
+  font-family: 'Bebas Neue', cursive;
+  background: linear-gradient(45deg, blue 10%,#FF013C 5%);
+
+}
