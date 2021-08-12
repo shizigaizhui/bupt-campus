@@ -1,9 +1,10 @@
 /*
  * @Author: zhengyu
  * @Date: 2021-08-09 16:36:16
- * @LastEditTime: 2021-08-12 17:25:22
+ * @LastEditTime: 2021-08-12 17:51:25
  * @LastEditors: Please set LastEditors
- * @Description: 配置webpack,见 https://webpack.docschina.org/guides
+ * @Description: 配置webpack,见 https://webpack.docschina.org/guides;
+ * module CSS配置见https://blog.jakoblind.no/css-modules-webpack/
  * @FilePath: \bupt-campus\webpack.config.js
  */
 const path = require( 'path' );
